@@ -1,0 +1,7 @@
+Admin:
+username : admin password : 12345
+username : admin2 password : 12345
+User:
+username : stu12 password : 12345
+username : stu13 password : 12345
+username : ter1 password : 12345
